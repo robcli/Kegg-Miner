@@ -96,7 +96,7 @@ def pathway(line):
 ## Runs the scrapping process on all products in the file
 def ec_search(file):
     with open(file, 'r', encoding="UTF-8") as read:
-        threads = 15
+        threads = 30
         files_to_search = []
         futures = []
         rr = []
@@ -108,17 +108,15 @@ def ec_search(file):
         update = 0
 
         with concurrent.futures.ThreadPoolExecutor(max_workers=threads) as executor:
-            for line in files_to_search:
-                future = executor.submit(pathway, line)
-                futures.append(future)
-            
-
-            for future in futures:
-                rr.append(future.result())
+            for i, line in enumerate(files_to_search):
+                files_to_search[i] = executor.submit(pathway, line)
+                
+            for i, future in enumerate(files_to_search):
+                files_to_search[i] = future.result()
                 update += 1
                 if(update % 20 == 0):
                     print(update)
-            return rr
+            return files_to_search
     
 ## file[ftype, EC, product] => file[ftype, EC, product, pathways]
 ## creates pathways tsv
