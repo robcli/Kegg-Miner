@@ -8,7 +8,6 @@ read -p "Enter directory path: " directory
 read -p "Input file source (unity or kbase): " src
 
 cd $directory || exit
-arr=()
 
 for file in "$directory"/*; do
 
