@@ -13,12 +13,10 @@ directory="/home/user/Post_annotation/testing"
 src="unity"
 
 cd $directory
-arr=()
 
 for file in $directory/*; do
 
     base="${file##*/}"
-    arr+=("${base}")
     
     export f="$base"
     export s="$src"
