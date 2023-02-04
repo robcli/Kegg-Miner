@@ -6,7 +6,7 @@ Appends KEGG pathway descriptors to genome annotation.
 
 ## Recommended for multiple files 
 
-Download the lib folder (don't separate the files). To execute in bash, run the .sh file. Input the correct directory with stored prokka/RAST tsvs. Make sure the path starts with a / e.g. /home/user/testing. Then input either "unity" or "kbase". To run as a sbatch file, use the slurm file. Edit the directory and src variables as needed. These methods allow the sequential processing of an entire folder of prokka/RAST tsvs at once. Only works on directories.
+Download the lib folder (don't separate the files). To execute in bash, run the .sh file. Input the correct directory with stored prokka/RAST tsvs. The directory should only store relevant tsvs. Make sure the path starts with a / e.g. /home/user/testing. Then input either "unity" or "kbase". To run as a sbatch file, use the slurm file. Edit the directory and src variables as needed. These methods allow the sequential processing of an entire folder of prokka/RAST tsvs at once. Only works on directories.
 
 ## For single use purposes
 
