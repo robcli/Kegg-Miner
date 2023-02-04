@@ -12,7 +12,6 @@ cd $directory || exit
 for file in "$directory"/*; do
 
     base="${file##*/}"
-    arr+=("${base}")
     
     export f="$base"
     export s="$src"
