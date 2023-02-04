@@ -10,7 +10,7 @@ Download the lib folder (don't separate the files). To execute in bash, run the 
 
 ## For single use purposes
 
-Takes RAST or prokka result tsv files. Files can originate from KBase, or from RASTtk or prokka ran manually. To run, have the prokka/RAST output tsv in the same folder as the script. The function to run is convert(filename, type) where type is either "unity" or "kbase". Ex. convert("prokka_phyla.tsv", "unity") if tsv orginated from Unity or convert("prokka_phyla.tsv", "kbase") if the tsv was from kbase. 
+Run convert.py. Takes RAST or prokka result tsv files. Files can originate from KBase, or from RASTtk or prokka ran manually. To run, have the prokka/RAST output tsv in the same folder as the script. The function to run is convert(filename, type) where type is either "unity" or "kbase". Ex. convert("prokka_phyla.tsv", "unity") if tsv orginated from Unity or convert("prokka_phyla.tsv", "kbase") if the tsv was from kbase. 
 
 ## Output files
 
