@@ -9,7 +9,7 @@
 chmod +x miner.py
 
 mineloc=$(dirname "$(realpath $0)")/"miner.py"
-directory="/home/robcli_umass_edu/Post_annotation/testing"
+directory="/home/user/Post_annotation/testing"
 src="unity"
 
 cd $directory
