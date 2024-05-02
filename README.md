@@ -2,7 +2,7 @@
 
 ## Description
 
-Appends KEGG pathway descriptors to prokka tsv files. 
+Appends KEGG pathway descriptors to prokka tsv files. Utilizes multithreading to speed up mining through concurrent API calls.
 
 ## How to Use
 Execute as:
