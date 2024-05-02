@@ -1,0 +1,1247 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+JOHDEFJB_00001	gene	909				
+JOHDEFJB_00001	CDS	909				hypothetical protein
+JOHDEFJB_00002	gene	585				
+JOHDEFJB_00002	CDS	585				hypothetical protein
+JOHDEFJB_00003	gene	1176				
+JOHDEFJB_00003	CDS	1176				hypothetical protein
+JOHDEFJB_00004	gene	768				
+JOHDEFJB_00004	CDS	768				hypothetical protein
+JOHDEFJB_00005	gene	501				
+JOHDEFJB_00005	CDS	501				hypothetical protein
+JOHDEFJB_00006	gene	498				
+JOHDEFJB_00006	CDS	498				hypothetical protein
+JOHDEFJB_00007	gene	186				
+JOHDEFJB_00007	CDS	186				hypothetical protein
+JOHDEFJB_00008	gene	447				
+JOHDEFJB_00008	CDS	447				hypothetical protein
+JOHDEFJB_00009	gene	405				
+JOHDEFJB_00009	CDS	405				hypothetical protein
+JOHDEFJB_00010	gene	594				
+JOHDEFJB_00010	CDS	594				hypothetical protein
+JOHDEFJB_00011	gene	144				
+JOHDEFJB_00011	CDS	144				hypothetical protein
+JOHDEFJB_00012	gene	216				
+JOHDEFJB_00012	CDS	216				hypothetical protein
+JOHDEFJB_00013	gene	408				
+JOHDEFJB_00013	CDS	408				hypothetical protein
+JOHDEFJB_00014	gene	2379	GFM1			
+JOHDEFJB_00014	CDS	2379	GFM1			Elongation factor G, mitochondrial
+JOHDEFJB_00015	gene	408				
+JOHDEFJB_00015	CDS	408				hypothetical protein
+JOHDEFJB_00016	gene	762	kduD			
+JOHDEFJB_00016	CDS	762	kduD	1.1.1.127		2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+JOHDEFJB_00017	gene	1059				
+JOHDEFJB_00017	CDS	1059				hypothetical protein
+JOHDEFJB_00018	gene	696				
+JOHDEFJB_00018	CDS	696				hypothetical protein
+JOHDEFJB_00019	gene	1506	gatA			
+JOHDEFJB_00019	CDS	1506	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+JOHDEFJB_00020	gene	315				
+JOHDEFJB_00020	CDS	315				hypothetical protein
+JOHDEFJB_00021	gene	1233				
+JOHDEFJB_00021	CDS	1233		1.14.15.28		Steroid C26-monooxygenase
+JOHDEFJB_00022	gene	588	sigR			
+JOHDEFJB_00022	CDS	588	sigR		COG1595	ECF RNA polymerase sigma factor SigR
+JOHDEFJB_00023	gene	369				
+JOHDEFJB_00023	CDS	369				hypothetical protein
+JOHDEFJB_00024	gene	1020				
+JOHDEFJB_00024	CDS	1020				hypothetical protein
+JOHDEFJB_00025	gene	2208	glnA			
+JOHDEFJB_00025	CDS	2208	glnA	6.3.1.2		Glutamine synthetase
+JOHDEFJB_00026	gene	1080				
+JOHDEFJB_00026	CDS	1080				hypothetical protein
+JOHDEFJB_00027	gene	939	kshA			
+JOHDEFJB_00027	CDS	939	kshA	1.14.15.30		3-ketosteroid-9-alpha-monooxygenase, oxygenase component
+JOHDEFJB_00028	gene	888	mmaA3			
+JOHDEFJB_00028	CDS	888	mmaA3	2.1.1.-	COG2230	Methoxy mycolic acid synthase MmaA3
+JOHDEFJB_00029	gene	933	cmaA1			
+JOHDEFJB_00029	CDS	933	cmaA1	2.1.1.79	COG2230	Cyclopropane mycolic acid synthase 1
+JOHDEFJB_00030	gene	936	fadB2			
+JOHDEFJB_00030	CDS	936	fadB2	1.1.1.157	COG1250	3-hydroxybutyryl-CoA dehydrogenase
+JOHDEFJB_00031	gene	1287	icl			
+JOHDEFJB_00031	CDS	1287	icl	4.1.3.1	COG2224	Isocitrate lyase
+JOHDEFJB_00032	gene	180				
+JOHDEFJB_00032	CDS	180				hypothetical protein
+JOHDEFJB_00033	gene	420				
+JOHDEFJB_00033	CDS	420				hypothetical protein
+JOHDEFJB_00034	gene	669	arpA			
+JOHDEFJB_00034	CDS	669	arpA			A-factor receptor protein
+JOHDEFJB_00035	gene	1881				
+JOHDEFJB_00035	CDS	1881				hypothetical protein
+JOHDEFJB_00036	gene	801				
+JOHDEFJB_00036	CDS	801				hypothetical protein
+JOHDEFJB_00037	gene	1170				
+JOHDEFJB_00037	CDS	1170				hypothetical protein
+JOHDEFJB_00038	gene	1053				
+JOHDEFJB_00038	CDS	1053				hypothetical protein
+JOHDEFJB_00039	gene	360	nagAb			
+JOHDEFJB_00039	CDS	360	nagAb			Naphthalene 1,2-dioxygenase/salicylate 5-hydroxylase systems, ferredoxin component
+JOHDEFJB_00040	gene	1236	yjiB			
+JOHDEFJB_00040	CDS	1236	yjiB	1.14.-.-	COG2124	Putative cytochrome P450 YjiB
+JOHDEFJB_00041	gene	1068				
+JOHDEFJB_00041	CDS	1068				hypothetical protein
+JOHDEFJB_00042	gene	330				
+JOHDEFJB_00042	CDS	330				hypothetical protein
+JOHDEFJB_00043	gene	984				
+JOHDEFJB_00043	CDS	984				hypothetical protein
+JOHDEFJB_00044	gene	765	fabG_1			
+JOHDEFJB_00044	CDS	765	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+JOHDEFJB_00045	gene	828				
+JOHDEFJB_00045	CDS	828				hypothetical protein
+JOHDEFJB_00046	gene	585				
+JOHDEFJB_00046	CDS	585				hypothetical protein
+JOHDEFJB_00047	gene	141				
+JOHDEFJB_00047	CDS	141				hypothetical protein
+JOHDEFJB_00048	gene	318				
+JOHDEFJB_00048	CDS	318				hypothetical protein
+JOHDEFJB_00049	gene	228				
+JOHDEFJB_00049	CDS	228				hypothetical protein
+JOHDEFJB_00050	gene	180				
+JOHDEFJB_00050	CDS	180				hypothetical protein
+JOHDEFJB_00051	gene	132				
+JOHDEFJB_00051	CDS	132				hypothetical protein
+JOHDEFJB_00052	gene	141				
+JOHDEFJB_00052	CDS	141				hypothetical protein
+JOHDEFJB_00053	gene	663				
+JOHDEFJB_00053	CDS	663				hypothetical protein
+JOHDEFJB_00054	gene	981				
+JOHDEFJB_00054	CDS	981				hypothetical protein
+JOHDEFJB_00055	gene	219				
+JOHDEFJB_00055	CDS	219				hypothetical protein
+JOHDEFJB_00056	gene	309	clcA			
+JOHDEFJB_00056	CDS	309	clcA			H(+)/Cl(-) exchange transporter ClcA
+JOHDEFJB_00057	gene	603				
+JOHDEFJB_00057	CDS	603				putative protein
+JOHDEFJB_00058	gene	1992				
+JOHDEFJB_00058	CDS	1992			COG4867	putative protein
+JOHDEFJB_00059	gene	1203				
+JOHDEFJB_00059	CDS	1203				hypothetical protein
+JOHDEFJB_00060	gene	246				
+JOHDEFJB_00060	CDS	246				hypothetical protein
+JOHDEFJB_00061	gene	900	hsaC			
+JOHDEFJB_00061	CDS	900	hsaC	1.13.11.25	COG0346	Iron-dependent extradiol dioxygenase
+JOHDEFJB_00062	gene	873	hsaD			
+JOHDEFJB_00062	CDS	873	hsaD	3.7.1.17		4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase
+JOHDEFJB_00063	gene	1185	hsaA			
+JOHDEFJB_00063	CDS	1185	hsaA	1.14.14.12		Flavin-dependent monooxygenase, oxygenase subunit HsaA
+JOHDEFJB_00064	gene	327	tcmH			
+JOHDEFJB_00064	CDS	327	tcmH	1.13.12.21		Tetracenomycin-F1 monooxygenase
+JOHDEFJB_00065	gene	435				
+JOHDEFJB_00065	CDS	435			COG1846	putative HTH-type transcriptional regulator
+JOHDEFJB_00066	gene	510	fabR			
+JOHDEFJB_00066	CDS	510	fabR		COG1309	HTH-type transcriptional repressor FabR
+JOHDEFJB_00067	gene	1056				
+JOHDEFJB_00067	CDS	1056		1.-.-.-	COG1018	NADPH oxidoreductase
+JOHDEFJB_00068	gene	1107	desA3			
+JOHDEFJB_00068	CDS	1107	desA3	1.14.19.-	COG3239	NADPH-dependent stearoyl-CoA 9-desaturase
+JOHDEFJB_00069	gene	114				
+JOHDEFJB_00069	CDS	114				hypothetical protein
+JOHDEFJB_00070	gene	621				
+JOHDEFJB_00070	CDS	621				hypothetical protein
+JOHDEFJB_00071	gene	186				
+JOHDEFJB_00071	CDS	186				hypothetical protein
+JOHDEFJB_00072	gene	1683	kdc			
+JOHDEFJB_00072	CDS	1683	kdc	4.1.1.-	COG3961	Alpha-keto-acid decarboxylase
+JOHDEFJB_00073	gene	444				
+JOHDEFJB_00073	CDS	444				hypothetical protein
+JOHDEFJB_00074	gene	579				
+JOHDEFJB_00074	CDS	579				hypothetical protein
+JOHDEFJB_00075	gene	1416				
+JOHDEFJB_00075	CDS	1416		4.2.1.79		2-methylcitrate dehydratase
+JOHDEFJB_00076	gene	948	hdfR			
+JOHDEFJB_00076	CDS	948	hdfR			HTH-type transcriptional regulator HdfR
+JOHDEFJB_00077	gene	531				
+JOHDEFJB_00077	CDS	531				hypothetical protein
+JOHDEFJB_00078	gene	285				
+JOHDEFJB_00078	CDS	285				hypothetical protein
+JOHDEFJB_00079	gene	708				
+JOHDEFJB_00079	CDS	708				hypothetical protein
+JOHDEFJB_00080	gene	339	glnB			
+JOHDEFJB_00080	CDS	339	glnB		COG0347	Nitrogen regulatory protein P-II
+JOHDEFJB_00081	gene	1422	amt			
+JOHDEFJB_00081	CDS	1422	amt			Ammonia channel
+JOHDEFJB_00082	gene	870				
+JOHDEFJB_00082	CDS	870				hypothetical protein
+JOHDEFJB_00083	gene	831				
+JOHDEFJB_00083	CDS	831				hypothetical protein
+JOHDEFJB_00084	gene	1032	auaH			
+JOHDEFJB_00084	CDS	1032	auaH	1.1.1.394		Aurachin B dehydrogenase
+JOHDEFJB_00085	gene	516				
+JOHDEFJB_00085	CDS	516				hypothetical protein
+JOHDEFJB_00086	gene	74				
+JOHDEFJB_00086	tRNA	74				tRNA-Lys(ctt)
+JOHDEFJB_00087	gene	858				
+JOHDEFJB_00087	CDS	858				hypothetical protein
+JOHDEFJB_00088	gene	2265	mmpL1			
+JOHDEFJB_00088	CDS	2265	mmpL1		COG2409	putative transport protein MmpL1
+JOHDEFJB_00089	gene	387	mmpS4			
+JOHDEFJB_00089	CDS	387	mmpS4			Siderophore export accessory protein MmpS4
+JOHDEFJB_00090	gene	1263	nanT			
+JOHDEFJB_00090	CDS	1263	nanT			Sialic acid transporter NanT
+JOHDEFJB_00091	gene	696	cinA			
+JOHDEFJB_00091	CDS	696	cinA		COG1058	CinA-like protein
+JOHDEFJB_00092	gene	603				
+JOHDEFJB_00092	CDS	603				hypothetical protein
+JOHDEFJB_00093	gene	318				
+JOHDEFJB_00093	CDS	318				hypothetical protein
+JOHDEFJB_00094	gene	432	dtd			
+JOHDEFJB_00094	CDS	432	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+JOHDEFJB_00095	gene	156				
+JOHDEFJB_00095	CDS	156				hypothetical protein
+JOHDEFJB_00096	gene	597				
+JOHDEFJB_00096	CDS	597				hypothetical protein
+JOHDEFJB_00097	gene	492				
+JOHDEFJB_00097	CDS	492				hypothetical protein
+JOHDEFJB_00098	gene	894	ydbD			
+JOHDEFJB_00098	CDS	894	ydbD	1.11.1.6	COG3546	putative manganese catalase
+JOHDEFJB_00099	gene	402				
+JOHDEFJB_00099	CDS	402				hypothetical protein
+JOHDEFJB_00100	gene	744				
+JOHDEFJB_00100	CDS	744				hypothetical protein
+JOHDEFJB_00101	gene	1422				
+JOHDEFJB_00101	CDS	1422				hypothetical protein
+JOHDEFJB_00102	gene	630				
+JOHDEFJB_00102	CDS	630				hypothetical protein
+JOHDEFJB_00103	gene	528	ettA			
+JOHDEFJB_00103	CDS	528	ettA		COG0488	Energy-dependent translational throttle protein EttA
+JOHDEFJB_00104	gene	126				
+JOHDEFJB_00104	CDS	126				hypothetical protein
+JOHDEFJB_00105	gene	930				
+JOHDEFJB_00105	CDS	930				hypothetical protein
+JOHDEFJB_00106	gene	183				
+JOHDEFJB_00106	CDS	183				hypothetical protein
+JOHDEFJB_00107	gene	198				
+JOHDEFJB_00107	CDS	198				hypothetical protein
+JOHDEFJB_00108	gene	732				
+JOHDEFJB_00108	CDS	732				hypothetical protein
+JOHDEFJB_00109	gene	792				
+JOHDEFJB_00109	CDS	792				hypothetical protein
+JOHDEFJB_00110	gene	336	pdxB			
+JOHDEFJB_00110	CDS	336	pdxB	1.1.1.290		Erythronate-4-phosphate dehydrogenase
+JOHDEFJB_00111	gene	150				
+JOHDEFJB_00111	CDS	150				hypothetical protein
+JOHDEFJB_00112	gene	1164	mii			
+JOHDEFJB_00112	CDS	1164	mii	5.3.3.6		3-methylitaconate isomerase
+JOHDEFJB_00113	gene	966				
+JOHDEFJB_00113	CDS	966				hypothetical protein
+JOHDEFJB_00114	gene	228				
+JOHDEFJB_00114	CDS	228				hypothetical protein
+JOHDEFJB_00115	gene	927				
+JOHDEFJB_00115	CDS	927		1.17.1.9		Putative formate dehydrogenase
+JOHDEFJB_00116	gene	261				
+JOHDEFJB_00116	CDS	261				hypothetical protein
+JOHDEFJB_00117	gene	741	phnF			
+JOHDEFJB_00117	CDS	741	phnF		COG2188	putative transcriptional regulator PhnF
+JOHDEFJB_00118	gene	1578	fadK			
+JOHDEFJB_00118	CDS	1578	fadK	6.2.1.-	COG0318	Medium-chain fatty-acid--CoA ligase
+JOHDEFJB_00119	gene	774	xecD			
+JOHDEFJB_00119	CDS	774	xecD	1.1.1.268		2-(R)-hydroxypropyl-CoM dehydrogenase
+JOHDEFJB_00120	gene	282				
+JOHDEFJB_00120	CDS	282				hypothetical protein
+JOHDEFJB_00121	gene	408	glbN			
+JOHDEFJB_00121	CDS	408	glbN		COG2346	Group 1 truncated hemoglobin GlbN
+JOHDEFJB_00122	gene	1017				
+JOHDEFJB_00122	CDS	1017		1.-.-.-		putative oxidoreductase
+JOHDEFJB_00123	gene	804				
+JOHDEFJB_00123	CDS	804				hypothetical protein
+JOHDEFJB_00124	gene	432				
+JOHDEFJB_00124	CDS	432				putative protein
+JOHDEFJB_00125	gene	168				
+JOHDEFJB_00125	CDS	168				hypothetical protein
+JOHDEFJB_00126	gene	774				
+JOHDEFJB_00126	CDS	774				hypothetical protein
+JOHDEFJB_00127	gene	774	sufC			
+JOHDEFJB_00127	CDS	774	sufC		COG0396	Vegetative protein 296
+JOHDEFJB_00128	gene	1191				
+JOHDEFJB_00128	CDS	1191				hypothetical protein
+JOHDEFJB_00129	gene	909				
+JOHDEFJB_00129	CDS	909				hypothetical protein
+JOHDEFJB_00130	gene	351				
+JOHDEFJB_00130	CDS	351				hypothetical protein
+JOHDEFJB_00131	gene	1791	purL_1			
+JOHDEFJB_00131	CDS	1791	purL_1	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+JOHDEFJB_00132	gene	738	purL_2			
+JOHDEFJB_00132	CDS	738	purL_2	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+JOHDEFJB_00133	gene	510				
+JOHDEFJB_00133	CDS	510			COG3118	putative protein
+JOHDEFJB_00134	gene	2217	glgB			
+JOHDEFJB_00134	CDS	2217	glgB	2.4.1.18	COG0296	1,4-alpha-glucan branching enzyme GlgB
+JOHDEFJB_00135	gene	816	glgE			
+JOHDEFJB_00135	CDS	816	glgE	2.4.99.16	COG0366	Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+JOHDEFJB_00136	gene	351	mtnD			
+JOHDEFJB_00136	CDS	351	mtnD	1.13.11.54		Acireductone dioxygenase
+JOHDEFJB_00137	gene	690	mtnC			
+JOHDEFJB_00137	CDS	690	mtnC	3.1.3.77		Enolase-phosphatase E1
+JOHDEFJB_00138	gene	1374	gloB_1			
+JOHDEFJB_00138	CDS	1374	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+JOHDEFJB_00139	gene	681	cysE			
+JOHDEFJB_00139	CDS	681	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+JOHDEFJB_00140	gene	309	cysK1			
+JOHDEFJB_00140	CDS	309	cysK1	2.5.1.47	COG0031	O-acetylserine sulfhydrylase
+JOHDEFJB_00141	gene	192				
+JOHDEFJB_00141	CDS	192				hypothetical protein
+JOHDEFJB_00142	gene	495				
+JOHDEFJB_00142	CDS	495				hypothetical protein
+JOHDEFJB_00143	gene	1134				
+JOHDEFJB_00143	CDS	1134		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+JOHDEFJB_00144	gene	1410	fadD3			
+JOHDEFJB_00144	CDS	1410	fadD3	6.2.1.41	COG0318	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+JOHDEFJB_00145	gene	168				
+JOHDEFJB_00145	CDS	168				hypothetical protein
+JOHDEFJB_00146	gene	975	ccsA			
+JOHDEFJB_00146	CDS	975	ccsA			Cytochrome c biogenesis protein CcsA
+JOHDEFJB_00147	gene	1389	ccs1			
+JOHDEFJB_00147	CDS	1389	ccs1			Cytochrome c biogenesis protein Ccs1
+JOHDEFJB_00148	gene	213	trpB			
+JOHDEFJB_00148	CDS	213	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+JOHDEFJB_00149	gene	813	trpA			
+JOHDEFJB_00149	CDS	813	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+JOHDEFJB_00150	gene	660				
+JOHDEFJB_00150	CDS	660				hypothetical protein
+JOHDEFJB_00151	gene	234				
+JOHDEFJB_00151	CDS	234				hypothetical protein
+JOHDEFJB_00152	gene	438				
+JOHDEFJB_00152	CDS	438				hypothetical protein
+JOHDEFJB_00153	gene	120				
+JOHDEFJB_00153	CDS	120				hypothetical protein
+JOHDEFJB_00154	gene	1101				
+JOHDEFJB_00154	CDS	1101				hypothetical protein
+JOHDEFJB_00155	gene	1296	paaJ			
+JOHDEFJB_00155	CDS	1296	paaJ	2.3.1.174	COG0183	3-oxoadipyl-CoA/3-oxo-5,6-dehydrosuberyl-CoA thiolase
+JOHDEFJB_00156	gene	945				
+JOHDEFJB_00156	CDS	945				hypothetical protein
+JOHDEFJB_00157	gene	612	calA			
+JOHDEFJB_00157	CDS	612	calA	1.1.1.194		Coniferyl-alcohol dehydrogenase
+JOHDEFJB_00158	gene	162				
+JOHDEFJB_00158	CDS	162				hypothetical protein
+JOHDEFJB_00159	gene	420	lppE			
+JOHDEFJB_00159	CDS	420	lppE			putative lipoprotein LppE
+JOHDEFJB_00160	gene	1200	geoB			
+JOHDEFJB_00160	CDS	1200	geoB	1.2.1.86		Geranial dehydrogenase
+JOHDEFJB_00161	gene	360				
+JOHDEFJB_00161	CDS	360				hypothetical protein
+JOHDEFJB_00162	gene	621				
+JOHDEFJB_00162	CDS	621				hypothetical protein
+JOHDEFJB_00163	gene	705	fgd			
+JOHDEFJB_00163	CDS	705	fgd	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+JOHDEFJB_00164	gene	897	camK			
+JOHDEFJB_00164	CDS	897	camK	3.7.1.18		6-oxocamphor hydrolase
+JOHDEFJB_00165	gene	1314				
+JOHDEFJB_00165	CDS	1314		1.14.13.239		Carnitine monooxygenase oxygenase subunit
+JOHDEFJB_00166	gene	327				
+JOHDEFJB_00166	CDS	327				hypothetical protein
+JOHDEFJB_00167	gene	396				
+JOHDEFJB_00167	CDS	396				hypothetical protein
+JOHDEFJB_00168	gene	2391				
+JOHDEFJB_00168	CDS	2391				hypothetical protein
+JOHDEFJB_00169	gene	483				
+JOHDEFJB_00169	CDS	483				hypothetical protein
+JOHDEFJB_00170	gene	117				
+JOHDEFJB_00170	CDS	117				hypothetical protein
+JOHDEFJB_00171	gene	1425	pntB			
+JOHDEFJB_00171	CDS	1425	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+JOHDEFJB_00172	gene	132				
+JOHDEFJB_00172	CDS	132				hypothetical protein
+JOHDEFJB_00173	gene	657	kstR2			
+JOHDEFJB_00173	CDS	657	kstR2			HTH-type transcriptional repressor KstR2
+JOHDEFJB_00174	gene	774	rhlG			
+JOHDEFJB_00174	CDS	774	rhlG	1.1.1.100		Rhamnolipids biosynthesis 3-oxoacyl-[acyl-carrier-protein] reductase
+JOHDEFJB_00175	gene	372	argC			
+JOHDEFJB_00175	CDS	372	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+JOHDEFJB_00176	gene	1212	argJ			
+JOHDEFJB_00176	CDS	1212	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+JOHDEFJB_00177	gene	870	argB			
+JOHDEFJB_00177	CDS	870	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+JOHDEFJB_00178	gene	453				
+JOHDEFJB_00178	CDS	453				hypothetical protein
+JOHDEFJB_00179	gene	960	gyrB			
+JOHDEFJB_00179	CDS	960	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+JOHDEFJB_00180	gene	258				
+JOHDEFJB_00180	CDS	258				hypothetical protein
+JOHDEFJB_00181	gene	285				
+JOHDEFJB_00181	CDS	285				hypothetical protein
+JOHDEFJB_00182	gene	1158	COQ5			
+JOHDEFJB_00182	CDS	1158	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+JOHDEFJB_00183	gene	675				
+JOHDEFJB_00183	CDS	675				hypothetical protein
+JOHDEFJB_00184	gene	987				
+JOHDEFJB_00184	CDS	987		1.3.99.-		Acyl-CoA dehydrogenase FadE34
+JOHDEFJB_00185	gene	576				
+JOHDEFJB_00185	CDS	576				hypothetical protein
+JOHDEFJB_00186	gene	1431	stp			
+JOHDEFJB_00186	CDS	1431	stp			Multidrug resistance protein Stp
+JOHDEFJB_00187	gene	720	nudL			
+JOHDEFJB_00187	CDS	720	nudL	3.6.1.-		putative Nudix hydrolase NudL
+JOHDEFJB_00188	gene	825				
+JOHDEFJB_00188	CDS	825		5.4.2.12	COG0406	PE-PGRS family protein PE_PGRS11
+JOHDEFJB_00189	gene	990				
+JOHDEFJB_00189	CDS	990				hypothetical protein
+JOHDEFJB_00190	gene	456	ddn			
+JOHDEFJB_00190	CDS	456	ddn	1.-.-.-		Deazaflavin-dependent nitroreductase
+JOHDEFJB_00191	gene	372				
+JOHDEFJB_00191	CDS	372				hypothetical protein
+JOHDEFJB_00192	gene	303	fadA5			
+JOHDEFJB_00192	CDS	303	fadA5	2.3.1.16		Steroid 3-ketoacyl-CoA thiolase
+JOHDEFJB_00193	gene	498				
+JOHDEFJB_00193	CDS	498		3.4.24.-	COG0612	putative zinc protease
+JOHDEFJB_00194	gene	2106	pnp			
+JOHDEFJB_00194	CDS	2106	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+JOHDEFJB_00195	gene	2484				
+JOHDEFJB_00195	CDS	2484				hypothetical protein
+JOHDEFJB_00196	gene	468				
+JOHDEFJB_00196	CDS	468				hypothetical protein
+JOHDEFJB_00197	gene	330				
+JOHDEFJB_00197	CDS	330				hypothetical protein
+JOHDEFJB_00198	gene	1032	fprA_1			
+JOHDEFJB_00198	CDS	1032	fprA_1	1.18.1.2	COG0493	NADPH-ferredoxin reductase FprA
+JOHDEFJB_00199	gene	336	fprA_2			
+JOHDEFJB_00199	CDS	336	fprA_2	1.18.1.2	COG0493	NADPH-ferredoxin reductase FprA
+JOHDEFJB_00200	gene	1047	prfB			
+JOHDEFJB_00200	CDS	1047	prfB		COG1186	Peptide chain release factor 2
+JOHDEFJB_00201	gene	1968	kup			
+JOHDEFJB_00201	CDS	1968	kup			Low affinity potassium transport system protein kup
+JOHDEFJB_00202	gene	777	ctpJ			
+JOHDEFJB_00202	CDS	777	ctpJ	3.6.3.-	COG2217	putative cation-transporting P-type ATPase J
+JOHDEFJB_00203	gene	174				
+JOHDEFJB_00203	CDS	174				hypothetical protein
+JOHDEFJB_00204	gene	1323				
+JOHDEFJB_00204	CDS	1323			COG2067	Putative outer membrane protein
+JOHDEFJB_00205	gene	876				
+JOHDEFJB_00205	CDS	876				hypothetical protein
+JOHDEFJB_00206	gene	183				
+JOHDEFJB_00206	CDS	183				hypothetical protein
+JOHDEFJB_00207	gene	540				
+JOHDEFJB_00207	CDS	540				hypothetical protein
+JOHDEFJB_00208	gene	1992				
+JOHDEFJB_00208	CDS	1992				hypothetical protein
+JOHDEFJB_00209	gene	303				
+JOHDEFJB_00209	CDS	303				hypothetical protein
+JOHDEFJB_00210	gene	675	crp			
+JOHDEFJB_00210	CDS	675	crp		COG0664	CRP-like cAMP-activated global transcriptional regulator
+JOHDEFJB_00211	gene	792	gloB_2			
+JOHDEFJB_00211	CDS	792	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+JOHDEFJB_00212	gene	456				
+JOHDEFJB_00212	CDS	456				hypothetical protein
+JOHDEFJB_00213	gene	162				
+JOHDEFJB_00213	CDS	162				hypothetical protein
+JOHDEFJB_00214	gene	840	atpD			
+JOHDEFJB_00214	CDS	840	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+JOHDEFJB_00215	gene	366	atpC			
+JOHDEFJB_00215	CDS	366	atpC		COG0355	ATP synthase epsilon chain
+JOHDEFJB_00216	gene	444				
+JOHDEFJB_00216	CDS	444				putative protein
+JOHDEFJB_00217	gene	591				
+JOHDEFJB_00217	CDS	591		2.5.1.17	COG2096	Corrinoid adenosyltransferase
+JOHDEFJB_00218	gene	864				
+JOHDEFJB_00218	CDS	864				hypothetical protein
+JOHDEFJB_00219	gene	297				
+JOHDEFJB_00219	CDS	297				putative protein
+JOHDEFJB_00220	gene	732				
+JOHDEFJB_00220	CDS	732				hypothetical protein
+JOHDEFJB_00221	gene	1737				
+JOHDEFJB_00221	CDS	1737				hypothetical protein
+JOHDEFJB_00222	gene	855				
+JOHDEFJB_00222	CDS	855				hypothetical protein
+JOHDEFJB_00223	gene	603				
+JOHDEFJB_00223	CDS	603				hypothetical protein
+JOHDEFJB_00224	gene	501	baiE			
+JOHDEFJB_00224	CDS	501	baiE	4.2.1.106		Bile acid 7-alpha dehydratase
+JOHDEFJB_00225	gene	621	betI_1			
+JOHDEFJB_00225	CDS	621	betI_1			HTH-type transcriptional regulator BetI
+JOHDEFJB_00226	gene	255				
+JOHDEFJB_00226	CDS	255				hypothetical protein
+JOHDEFJB_00227	gene	627				
+JOHDEFJB_00227	CDS	627				hypothetical protein
+JOHDEFJB_00228	gene	414	msrB			
+JOHDEFJB_00228	CDS	414	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+JOHDEFJB_00229	gene	705	aftC			
+JOHDEFJB_00229	CDS	705	aftC	2.4.2.47		Alpha-(1->3)-arabinofuranosyltransferase
+JOHDEFJB_00230	gene	954	plsB			
+JOHDEFJB_00230	CDS	954	plsB	2.3.1.15	COG2937	Glycerol-3-phosphate acyltransferase
+JOHDEFJB_00231	gene	2010				
+JOHDEFJB_00231	CDS	2010				hypothetical protein
+JOHDEFJB_00232	gene	1722				
+JOHDEFJB_00232	CDS	1722				hypothetical protein
+JOHDEFJB_00233	gene	603				
+JOHDEFJB_00233	CDS	603				hypothetical protein
+JOHDEFJB_00234	gene	633				
+JOHDEFJB_00234	CDS	633				hypothetical protein
+JOHDEFJB_00235	gene	681				
+JOHDEFJB_00235	CDS	681				hypothetical protein
+JOHDEFJB_00236	gene	1404	galP			
+JOHDEFJB_00236	CDS	1404	galP			Galactose-proton symporter
+JOHDEFJB_00237	gene	933				
+JOHDEFJB_00237	CDS	933				hypothetical protein
+JOHDEFJB_00238	gene	684	thlA			
+JOHDEFJB_00238	CDS	684	thlA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+JOHDEFJB_00239	gene	789	caiD			
+JOHDEFJB_00239	CDS	789	caiD	4.2.1.149	COG1024	Carnitinyl-CoA dehydratase
+JOHDEFJB_00240	gene	594	pgdA			
+JOHDEFJB_00240	CDS	594	pgdA	3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+JOHDEFJB_00241	gene	570	betI_2			
+JOHDEFJB_00241	CDS	570	betI_2			HTH-type transcriptional regulator BetI
+JOHDEFJB_00242	gene	1632	serA			
+JOHDEFJB_00242	CDS	1632	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+JOHDEFJB_00243	gene	1011	leuB			
+JOHDEFJB_00243	CDS	1011	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+JOHDEFJB_00244	gene	555				
+JOHDEFJB_00244	CDS	555				hypothetical protein
+JOHDEFJB_00245	gene	972				
+JOHDEFJB_00245	CDS	972				hypothetical protein
+JOHDEFJB_00246	gene	549	dps			
+JOHDEFJB_00246	CDS	549	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+JOHDEFJB_00247	gene	489				
+JOHDEFJB_00247	CDS	489				hypothetical protein
+JOHDEFJB_00248	gene	1320				
+JOHDEFJB_00248	CDS	1320				hypothetical protein
+JOHDEFJB_00249	gene	714	mutT3			
+JOHDEFJB_00249	CDS	714	mutT3	3.6.1.55	COG0494	Putative 8-oxo-dGTP diphosphatase 3
+JOHDEFJB_00250	gene	672	thiE			
+JOHDEFJB_00250	CDS	672	thiE	2.5.1.3	COG0352	Thiamine-phosphate synthase
+JOHDEFJB_00251	gene	291	gpsA2			
+JOHDEFJB_00251	CDS	291	gpsA2	1.1.1.94	COG0240	putative glycerol-3-phosphate dehydrogenase 2 [NAD(P)+]
+JOHDEFJB_00252	gene	864	htpX			
+JOHDEFJB_00252	CDS	864	htpX	3.4.24.-	COG0501	Protease HtpX 
+JOHDEFJB_00253	gene	1419				
+JOHDEFJB_00253	CDS	1419				hypothetical protein
+JOHDEFJB_00254	gene	735	yidC			
+JOHDEFJB_00254	CDS	735	yidC		COG0706	Membrane protein insertase YidC
+JOHDEFJB_00255	gene	576				
+JOHDEFJB_00255	CDS	576				hypothetical protein
+JOHDEFJB_00256	gene	720	rsmG			
+JOHDEFJB_00256	CDS	720	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+JOHDEFJB_00257	gene	1380	mmpL3			
+JOHDEFJB_00257	CDS	1380	mmpL3		COG2409	Trehalose monomycolate exporter MmpL3
+JOHDEFJB_00258	gene	1149				
+JOHDEFJB_00258	CDS	1149			COG0628	Putative transport protein
+JOHDEFJB_00259	gene	645				
+JOHDEFJB_00259	CDS	645			COG0789	putative HTH-type transcriptional regulator
+JOHDEFJB_00260	gene	495				
+JOHDEFJB_00260	CDS	495			COG1259	putative protein
+JOHDEFJB_00261	gene	732				
+JOHDEFJB_00261	CDS	732			COG0789	putative HTH-type transcriptional regulator
+JOHDEFJB_00262	gene	474				
+JOHDEFJB_00262	CDS	474				putative protein
+JOHDEFJB_00263	gene	507				
+JOHDEFJB_00263	CDS	507				putative protein
+JOHDEFJB_00264	gene	816				
+JOHDEFJB_00264	CDS	816				hypothetical protein
+JOHDEFJB_00265	gene	588				
+JOHDEFJB_00265	CDS	588				hypothetical protein
+JOHDEFJB_00266	gene	579				
+JOHDEFJB_00266	CDS	579				hypothetical protein
+JOHDEFJB_00267	gene	258				
+JOHDEFJB_00267	CDS	258				hypothetical protein
+JOHDEFJB_00268	gene	795				
+JOHDEFJB_00268	CDS	795				hypothetical protein
+JOHDEFJB_00269	gene	288				
+JOHDEFJB_00269	CDS	288				hypothetical protein
+JOHDEFJB_00270	gene	291				
+JOHDEFJB_00270	CDS	291				hypothetical protein
+JOHDEFJB_00271	gene	1119				
+JOHDEFJB_00271	CDS	1119				hypothetical protein
+JOHDEFJB_00272	gene	117				
+JOHDEFJB_00272	CDS	117				hypothetical protein
+JOHDEFJB_00273	gene	183				
+JOHDEFJB_00273	CDS	183				hypothetical protein
+JOHDEFJB_00274	gene	1728				
+JOHDEFJB_00274	CDS	1728				hypothetical protein
+JOHDEFJB_00275	gene	576	sigM			
+JOHDEFJB_00275	CDS	576	sigM			ECF RNA polymerase sigma factor SigM
+JOHDEFJB_00276	gene	315				
+JOHDEFJB_00276	CDS	315				hypothetical protein
+JOHDEFJB_00277	gene	891				
+JOHDEFJB_00277	CDS	891				hypothetical protein
+JOHDEFJB_00278	gene	1134	ord			
+JOHDEFJB_00278	CDS	1134	ord	1.4.1.26		2,4-diaminopentanoate dehydrogenase
+JOHDEFJB_00279	gene	756	amgK			
+JOHDEFJB_00279	CDS	756	amgK	2.7.1.221	COG3178	N-acetylmuramate/N-acetylglucosamine kinase
+JOHDEFJB_00280	gene	426				
+JOHDEFJB_00280	CDS	426				hypothetical protein
+JOHDEFJB_00281	gene	1890	aftA			
+JOHDEFJB_00281	CDS	1890	aftA	2.4.2.46		Galactan 5-O-arabinofuranosyltransferase
+JOHDEFJB_00282	gene	402	dprE2			
+JOHDEFJB_00282	CDS	402	dprE2	1.1.1.333	COG1028	Decaprenylphosphoryl-2-keto-beta-D-erythro-pentose reductase
+JOHDEFJB_00283	gene	666				
+JOHDEFJB_00283	CDS	666				hypothetical protein
+JOHDEFJB_00284	gene	276				
+JOHDEFJB_00284	CDS	276				hypothetical protein
+JOHDEFJB_00285	gene	339	rbpA			
+JOHDEFJB_00285	CDS	339	rbpA			RNA polymerase-binding protein RbpA
+JOHDEFJB_00286	gene	789	ppm1_1			
+JOHDEFJB_00286	CDS	789	ppm1_1	2.4.1.-		Polyprenol monophosphomannose synthase
+JOHDEFJB_00287	gene	171				
+JOHDEFJB_00287	CDS	171				hypothetical protein
+JOHDEFJB_00288	gene	960	fadD			
+JOHDEFJB_00288	CDS	960	fadD	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+JOHDEFJB_00289	gene	1323	yhjE			
+JOHDEFJB_00289	CDS	1323	yhjE			Inner membrane metabolite transport protein YhjE
+JOHDEFJB_00290	gene	636	dapD			
+JOHDEFJB_00290	CDS	636	dapD	2.3.1.117	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+JOHDEFJB_00291	gene	1629	mpa			
+JOHDEFJB_00291	CDS	1629	mpa		COG0464	Proteasome-associated ATPase
+JOHDEFJB_00292	gene	513				
+JOHDEFJB_00292	CDS	513				Low molecular weight antigen MTB12
+JOHDEFJB_00293	gene	537	lppK			
+JOHDEFJB_00293	CDS	537	lppK			Putative lipoprotein LppK
+JOHDEFJB_00294	gene	2052	btuB			
+JOHDEFJB_00294	CDS	2052	btuB		COG4206	Vitamin B12 transporter BtuB
+JOHDEFJB_00295	gene	591				
+JOHDEFJB_00295	CDS	591				hypothetical protein
+JOHDEFJB_00296	gene	735				
+JOHDEFJB_00296	CDS	735		3.1.1.74		putative cutinase
+JOHDEFJB_00297	gene	396				
+JOHDEFJB_00297	CDS	396				hypothetical protein
+JOHDEFJB_00298	gene	150				
+JOHDEFJB_00298	CDS	150				hypothetical protein
+JOHDEFJB_00299	gene	855				
+JOHDEFJB_00299	CDS	855			COG3662	putative protein
+JOHDEFJB_00300	gene	1236				
+JOHDEFJB_00300	CDS	1236				hypothetical protein
+JOHDEFJB_00301	gene	801				
+JOHDEFJB_00301	CDS	801				hypothetical protein
+JOHDEFJB_00302	gene	1473				
+JOHDEFJB_00302	CDS	1473		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+JOHDEFJB_00303	gene	807				
+JOHDEFJB_00303	CDS	807		4.2.1.17	COG1024	putative enoyl-CoA hydratase echA12
+JOHDEFJB_00304	gene	588				
+JOHDEFJB_00304	CDS	588				hypothetical protein
+JOHDEFJB_00305	gene	1176				
+JOHDEFJB_00305	CDS	1176				hypothetical protein
+JOHDEFJB_00306	gene	1050	pknD			
+JOHDEFJB_00306	CDS	1050	pknD	2.7.11.1		Serine/threonine-protein kinase PknD
+JOHDEFJB_00307	gene	207				
+JOHDEFJB_00307	CDS	207				hypothetical protein
+JOHDEFJB_00308	gene	804	map-1			
+JOHDEFJB_00308	CDS	804	map-1	3.4.11.18	COG0024	Methionine aminopeptidase 1
+JOHDEFJB_00309	gene	546	adk			
+JOHDEFJB_00309	CDS	546	adk	2.7.4.3	COG0563	Adenylate kinase
+JOHDEFJB_00310	gene	1326	secY			
+JOHDEFJB_00310	CDS	1326	secY		COG0201	Protein translocase subunit SecY
+JOHDEFJB_00311	gene	297				
+JOHDEFJB_00311	CDS	297				hypothetical protein
+JOHDEFJB_00312	gene	900				
+JOHDEFJB_00312	CDS	900		2.1.1.-	COG3315	Putative S-adenosyl-L-methionine-dependent methyltransferase
+JOHDEFJB_00313	gene	828				
+JOHDEFJB_00313	CDS	828			COG2141	putative protein
+JOHDEFJB_00314	gene	327	esxU			
+JOHDEFJB_00314	CDS	327	esxU		COG4842	ESAT-6-like protein EsxU
+JOHDEFJB_00315	gene	306	esxT			
+JOHDEFJB_00315	CDS	306	esxT		COG4842	ESAT-6-like protein EsxT
+JOHDEFJB_00316	gene	537				
+JOHDEFJB_00316	CDS	537				putative protein
+JOHDEFJB_00317	gene	501				
+JOHDEFJB_00317	CDS	501				hypothetical protein
+JOHDEFJB_00318	gene	261				
+JOHDEFJB_00318	CDS	261				hypothetical protein
+JOHDEFJB_00319	gene	876	npcC			
+JOHDEFJB_00319	CDS	876	npcC	1.13.11.37		Hydroxyquinol 1,2-dioxygenase
+JOHDEFJB_00320	gene	534				
+JOHDEFJB_00320	CDS	534				hypothetical protein
+JOHDEFJB_00321	gene	555				
+JOHDEFJB_00321	CDS	555				hypothetical protein
+JOHDEFJB_00322	gene	663	malP			
+JOHDEFJB_00322	CDS	663	malP	2.4.1.1	COG0058	Maltodextrin phosphorylase
+JOHDEFJB_00323	gene	468				
+JOHDEFJB_00323	CDS	468				hypothetical protein
+JOHDEFJB_00324	gene	750				
+JOHDEFJB_00324	CDS	750				hypothetical protein
+JOHDEFJB_00325	gene	783	hisN			
+JOHDEFJB_00325	CDS	783	hisN	3.1.3.15	COG0483	Histidinol-phosphatase
+JOHDEFJB_00326	gene	366	pcaA			
+JOHDEFJB_00326	CDS	366	pcaA	2.1.1.79	COG2230	Cyclopropane mycolic acid synthase 3
+JOHDEFJB_00327	gene	1068				
+JOHDEFJB_00327	CDS	1068			COG0204	putative protein
+JOHDEFJB_00328	gene	1101				
+JOHDEFJB_00328	CDS	1101			COG0451	putative protein
+JOHDEFJB_00329	gene	345				
+JOHDEFJB_00329	CDS	345				hypothetical protein
+JOHDEFJB_00330	gene	1227				
+JOHDEFJB_00330	CDS	1227				hypothetical protein
+JOHDEFJB_00331	gene	180				
+JOHDEFJB_00331	CDS	180		1.13.12.-	COG2070	Putative monooxygenase
+JOHDEFJB_00332	gene	657	betI_3			
+JOHDEFJB_00332	CDS	657	betI_3			HTH-type transcriptional regulator BetI
+JOHDEFJB_00333	gene	606	slmA			
+JOHDEFJB_00333	CDS	606	slmA			Nucleoid occlusion factor SlmA
+JOHDEFJB_00334	gene	234				
+JOHDEFJB_00334	CDS	234				hypothetical protein
+JOHDEFJB_00335	gene	627				
+JOHDEFJB_00335	CDS	627				hypothetical protein
+JOHDEFJB_00336	gene	240				
+JOHDEFJB_00336	CDS	240				hypothetical protein
+JOHDEFJB_00337	gene	519				
+JOHDEFJB_00337	CDS	519				hypothetical protein
+JOHDEFJB_00338	gene	660				
+JOHDEFJB_00338	CDS	660				hypothetical protein
+JOHDEFJB_00339	gene	1260	purK			
+JOHDEFJB_00339	CDS	1260	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase
+JOHDEFJB_00340	gene	840				
+JOHDEFJB_00340	CDS	840				hypothetical protein
+JOHDEFJB_00341	gene	726				
+JOHDEFJB_00341	CDS	726				hypothetical protein
+JOHDEFJB_00342	gene	813	paaG			
+JOHDEFJB_00342	CDS	813	paaG	5.3.3.18	COG1024	1,2-epoxyphenylacetyl-CoA isomerase
+JOHDEFJB_00343	gene	423	orn			
+JOHDEFJB_00343	CDS	423	orn	3.1.-.-	COG1949	Oligoribonuclease
+JOHDEFJB_00344	gene	1683				
+JOHDEFJB_00344	CDS	1683				hypothetical protein
+JOHDEFJB_00345	gene	435				
+JOHDEFJB_00345	CDS	435				hypothetical protein
+JOHDEFJB_00346	gene	738				
+JOHDEFJB_00346	CDS	738				hypothetical protein
+JOHDEFJB_00347	gene	645				
+JOHDEFJB_00347	CDS	645				hypothetical protein
+JOHDEFJB_00348	gene	1029	virS			
+JOHDEFJB_00348	CDS	1029	virS			HTH-type transcriptional regulator VirS
+JOHDEFJB_00349	gene	102				
+JOHDEFJB_00349	CDS	102				hypothetical protein
+JOHDEFJB_00350	gene	1074	pstS3			
+JOHDEFJB_00350	CDS	1074	pstS3		COG0226	Phosphate-binding protein PstS 3
+JOHDEFJB_00351	gene	207				
+JOHDEFJB_00351	CDS	207				hypothetical protein
+JOHDEFJB_00352	gene	699				
+JOHDEFJB_00352	CDS	699		5.4.99.-	COG0564	putative RNA pseudouridine synthase
+JOHDEFJB_00353	gene	936	lcfB			
+JOHDEFJB_00353	CDS	936	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+JOHDEFJB_00354	gene	810	novR			
+JOHDEFJB_00354	CDS	810	novR	4.1.-.-		Decarboxylase NovR
+JOHDEFJB_00355	gene	1125				
+JOHDEFJB_00355	CDS	1125				hypothetical protein
+JOHDEFJB_00356	gene	1638	alsS			
+JOHDEFJB_00356	CDS	1638	alsS	2.2.1.6	COG0028	Acetolactate synthase
+JOHDEFJB_00357	gene	207				
+JOHDEFJB_00357	CDS	207				hypothetical protein
+JOHDEFJB_00358	gene	2238	icd			
+JOHDEFJB_00358	CDS	2238	icd	1.1.1.42	COG2838	Isocitrate dehydrogenase [NADP]
+JOHDEFJB_00359	gene	459	crt			
+JOHDEFJB_00359	CDS	459	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+JOHDEFJB_00360	gene	183				
+JOHDEFJB_00360	CDS	183				hypothetical protein
+JOHDEFJB_00361	gene	498	bfr			
+JOHDEFJB_00361	CDS	498	bfr	1.16.3.1	COG2193	Bacterioferritin
+JOHDEFJB_00362	gene	1170				
+JOHDEFJB_00362	CDS	1170				hypothetical protein
+JOHDEFJB_00363	gene	558				
+JOHDEFJB_00363	CDS	558				hypothetical protein
+JOHDEFJB_00364	gene	195				
+JOHDEFJB_00364	CDS	195				hypothetical protein
+JOHDEFJB_00365	gene	591				
+JOHDEFJB_00365	CDS	591				hypothetical protein
+JOHDEFJB_00366	gene	483				
+JOHDEFJB_00366	CDS	483		3.1.3.-	COG2062	putative protein
+JOHDEFJB_00367	gene	327	pafA			
+JOHDEFJB_00367	CDS	327	pafA	6.3.1.19		Pup--protein ligase
+JOHDEFJB_00368	gene	171				
+JOHDEFJB_00368	CDS	171				hypothetical protein
+JOHDEFJB_00369	gene	975	pafB			
+JOHDEFJB_00369	CDS	975	pafB		COG2378	Protein PafB
+JOHDEFJB_00370	gene	864	mutM			
+JOHDEFJB_00370	CDS	864	mutM	4.2.99.18		Formamidopyrimidine-DNA glycosylase
+JOHDEFJB_00371	gene	390				
+JOHDEFJB_00371	CDS	390				hypothetical protein
+JOHDEFJB_00372	gene	903				
+JOHDEFJB_00372	CDS	903				putative protein
+JOHDEFJB_00373	gene	480				
+JOHDEFJB_00373	CDS	480				hypothetical protein
+JOHDEFJB_00374	gene	165				
+JOHDEFJB_00374	CDS	165				hypothetical protein
+JOHDEFJB_00375	gene	369	iscA			
+JOHDEFJB_00375	CDS	369	iscA		COG0316	Iron-binding protein IscA
+JOHDEFJB_00376	gene	372				
+JOHDEFJB_00376	CDS	372				hypothetical protein
+JOHDEFJB_00377	gene	477	sufU			
+JOHDEFJB_00377	CDS	477	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+JOHDEFJB_00378	gene	681	csd			
+JOHDEFJB_00378	CDS	681	csd	2.8.1.7		putative cysteine desulfurase
+JOHDEFJB_00379	gene	915				
+JOHDEFJB_00379	CDS	915				hypothetical protein
+JOHDEFJB_00380	gene	264				
+JOHDEFJB_00380	CDS	264				hypothetical protein
+JOHDEFJB_00381	gene	492				
+JOHDEFJB_00381	CDS	492				hypothetical protein
+JOHDEFJB_00382	gene	420				
+JOHDEFJB_00382	CDS	420				hypothetical protein
+JOHDEFJB_00383	gene	183				
+JOHDEFJB_00383	CDS	183				hypothetical protein
+JOHDEFJB_00384	gene	216				
+JOHDEFJB_00384	CDS	216				hypothetical protein
+JOHDEFJB_00385	gene	222	infA			
+JOHDEFJB_00385	CDS	222	infA		COG0361	Translation initiation factor IF-1
+JOHDEFJB_00386	gene	375	rpsM			
+JOHDEFJB_00386	CDS	375	rpsM		COG0099	30S ribosomal protein S13
+JOHDEFJB_00387	gene	420	rpsK			
+JOHDEFJB_00387	CDS	420	rpsK		COG0100	30S ribosomal protein S11
+JOHDEFJB_00388	gene	573				
+JOHDEFJB_00388	CDS	573				hypothetical protein
+JOHDEFJB_00389	gene	897				
+JOHDEFJB_00389	CDS	897				hypothetical protein
+JOHDEFJB_00390	gene	1182	iscS			
+JOHDEFJB_00390	CDS	1182	iscS	2.8.1.7	COG1104	IscS-like cysteine desulfurase
+JOHDEFJB_00391	gene	1314				
+JOHDEFJB_00391	CDS	1314				hypothetical protein
+JOHDEFJB_00392	gene	504				
+JOHDEFJB_00392	CDS	504				hypothetical protein
+JOHDEFJB_00393	gene	657				
+JOHDEFJB_00393	CDS	657				hypothetical protein
+JOHDEFJB_00394	gene	468	cynS			
+JOHDEFJB_00394	CDS	468	cynS	4.2.1.104	COG1513	Cyanate hydratase
+JOHDEFJB_00395	gene	1404				
+JOHDEFJB_00395	CDS	1404			COG4325	putative protein
+JOHDEFJB_00396	gene	1728				
+JOHDEFJB_00396	CDS	1728				hypothetical protein
+JOHDEFJB_00397	gene	744	nlhH			
+JOHDEFJB_00397	CDS	744	nlhH	3.1.1.1	COG0657	Carboxylesterase NlhH
+JOHDEFJB_00398	gene	780	tcrX_1			
+JOHDEFJB_00398	CDS	780	tcrX_1		COG0745	putative transcriptional regulatory protein TcrX
+JOHDEFJB_00399	gene	1632	dmdB			
+JOHDEFJB_00399	CDS	1632	dmdB	6.2.1.44	COG0318	3-methylmercaptopropionyl-CoA ligase
+JOHDEFJB_00400	gene	570				
+JOHDEFJB_00400	CDS	570				hypothetical protein
+JOHDEFJB_00401	gene	645	lppM			
+JOHDEFJB_00401	CDS	645	lppM			Protein LppM
+JOHDEFJB_00402	gene	891				
+JOHDEFJB_00402	CDS	891				hypothetical protein
+JOHDEFJB_00403	gene	213				
+JOHDEFJB_00403	CDS	213				hypothetical protein
+JOHDEFJB_00404	gene	291				
+JOHDEFJB_00404	CDS	291				hypothetical protein
+JOHDEFJB_00405	gene	1749	groL			
+JOHDEFJB_00405	CDS	1749	groL		COG0459	60 kDa chaperonin
+JOHDEFJB_00406	gene	357	groS			
+JOHDEFJB_00406	CDS	357	groS			10 kDa chaperonin
+JOHDEFJB_00407	gene	1239	mycG			
+JOHDEFJB_00407	CDS	1239	mycG	1.14.-.-		Mycinamicin IV hydroxylase/epoxidase
+JOHDEFJB_00408	gene	717				
+JOHDEFJB_00408	CDS	717				hypothetical protein
+JOHDEFJB_00409	gene	759	fabG_2			
+JOHDEFJB_00409	CDS	759	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+JOHDEFJB_00410	gene	1182				
+JOHDEFJB_00410	CDS	1182		1.3.99.-	COG1960	Acyl-CoA dehydrogenase fadE12
+JOHDEFJB_00411	gene	402				
+JOHDEFJB_00411	CDS	402				hypothetical protein
+JOHDEFJB_00412	gene	672				
+JOHDEFJB_00412	CDS	672				hypothetical protein
+JOHDEFJB_00413	gene	114				
+JOHDEFJB_00413	CDS	114				hypothetical protein
+JOHDEFJB_00414	gene	771	hypB			
+JOHDEFJB_00414	CDS	771	hypB		COG0378	Hydrogenase maturation factor HypB
+JOHDEFJB_00415	gene	231	hypA			
+JOHDEFJB_00415	CDS	231	hypA			Hydrogenase maturation factor HypA
+JOHDEFJB_00416	gene	285				
+JOHDEFJB_00416	CDS	285				hypothetical protein
+JOHDEFJB_00417	gene	243				
+JOHDEFJB_00417	CDS	243				hypothetical protein
+JOHDEFJB_00418	gene	306	moeA1			
+JOHDEFJB_00418	CDS	306	moeA1	2.10.1.1	COG0303	Molybdopterin molybdenumtransferase 1
+JOHDEFJB_00419	gene	654	rimJ			
+JOHDEFJB_00419	CDS	654	rimJ	2.3.1.267	COG1670	[Ribosomal protein S5]-alanine N-acetyltransferase
+JOHDEFJB_00420	gene	1005				
+JOHDEFJB_00420	CDS	1005				hypothetical protein
+JOHDEFJB_00421	gene	76				
+JOHDEFJB_00421	tRNA	76				tRNA-Ala(cgc)
+JOHDEFJB_00422	gene	213	truA			
+JOHDEFJB_00422	CDS	213	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+JOHDEFJB_00423	gene	669	cut2_1			
+JOHDEFJB_00423	CDS	669	cut2_1	3.1.1.74		putative cutinase cut2
+JOHDEFJB_00424	gene	681	cut2_2			
+JOHDEFJB_00424	CDS	681	cut2_2	3.1.1.74		putative cutinase cut2
+JOHDEFJB_00425	gene	840				
+JOHDEFJB_00425	CDS	840				hypothetical protein
+JOHDEFJB_00426	gene	672	cya			
+JOHDEFJB_00426	CDS	672	cya	4.6.1.1	COG2114	Adenylate cyclase
+JOHDEFJB_00427	gene	1443				
+JOHDEFJB_00427	CDS	1443				hypothetical protein
+JOHDEFJB_00428	gene	1269				
+JOHDEFJB_00428	CDS	1269				putative protein
+JOHDEFJB_00429	gene	693	ppm1_2			
+JOHDEFJB_00429	CDS	693	ppm1_2	2.4.1.-		Polyprenol monophosphomannose synthase
+JOHDEFJB_00430	gene	372				
+JOHDEFJB_00430	CDS	372				hypothetical protein
+JOHDEFJB_00431	gene	129				
+JOHDEFJB_00431	CDS	129				hypothetical protein
+JOHDEFJB_00432	gene	900				
+JOHDEFJB_00432	CDS	900				hypothetical protein
+JOHDEFJB_00433	gene	402				
+JOHDEFJB_00433	CDS	402				hypothetical protein
+JOHDEFJB_00434	gene	1038				
+JOHDEFJB_00434	CDS	1038				hypothetical protein
+JOHDEFJB_00435	gene	330				
+JOHDEFJB_00435	CDS	330				hypothetical protein
+JOHDEFJB_00436	gene	816				
+JOHDEFJB_00436	CDS	816				hypothetical protein
+JOHDEFJB_00437	gene	441				
+JOHDEFJB_00437	CDS	441				hypothetical protein
+JOHDEFJB_00438	gene	834				
+JOHDEFJB_00438	CDS	834			COG0204	putative protein
+JOHDEFJB_00439	gene	813				
+JOHDEFJB_00439	CDS	813				hypothetical protein
+JOHDEFJB_00440	gene	816	recO			
+JOHDEFJB_00440	CDS	816	recO			DNA repair protein RecO
+JOHDEFJB_00441	gene	819				
+JOHDEFJB_00441	CDS	819				hypothetical protein
+JOHDEFJB_00442	gene	537				
+JOHDEFJB_00442	CDS	537				hypothetical protein
+JOHDEFJB_00443	gene	609				
+JOHDEFJB_00443	CDS	609				hypothetical protein
+JOHDEFJB_00444	gene	267				
+JOHDEFJB_00444	CDS	267				HTH-type transcriptional repressor
+JOHDEFJB_00445	gene	114				
+JOHDEFJB_00445	CDS	114				hypothetical protein
+JOHDEFJB_00446	gene	1050				
+JOHDEFJB_00446	CDS	1050				hypothetical protein
+JOHDEFJB_00447	gene	1071				
+JOHDEFJB_00447	CDS	1071				hypothetical protein
+JOHDEFJB_00448	gene	213				
+JOHDEFJB_00448	CDS	213				hypothetical protein
+JOHDEFJB_00449	gene	327				
+JOHDEFJB_00449	CDS	327				hypothetical protein
+JOHDEFJB_00450	gene	471				
+JOHDEFJB_00450	CDS	471				hypothetical protein
+JOHDEFJB_00451	gene	324				
+JOHDEFJB_00451	CDS	324				hypothetical protein
+JOHDEFJB_00452	gene	885				
+JOHDEFJB_00452	CDS	885				hypothetical protein
+JOHDEFJB_00453	gene	237	pgk			
+JOHDEFJB_00453	CDS	237	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+JOHDEFJB_00454	gene	786	tpiA			
+JOHDEFJB_00454	CDS	786	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+JOHDEFJB_00455	gene	768				
+JOHDEFJB_00455	CDS	768				hypothetical protein
+JOHDEFJB_00456	gene	105				
+JOHDEFJB_00456	CDS	105				hypothetical protein
+JOHDEFJB_00457	gene	1035	kstD			
+JOHDEFJB_00457	CDS	1035	kstD	1.3.99.4	COG1053	3-oxosteroid 1-dehydrogenase
+JOHDEFJB_00458	gene	1302	limB			
+JOHDEFJB_00458	CDS	1302	limB	1.14.13.107		Limonene 1,2-monooxygenase
+JOHDEFJB_00459	gene	88				
+JOHDEFJB_00459	tRNA	88				tRNA-Ser(tga)
+JOHDEFJB_00460	gene	489				
+JOHDEFJB_00460	CDS	489				hypothetical protein
+JOHDEFJB_00461	gene	978				
+JOHDEFJB_00461	CDS	978		1.3.1.103		2-haloacrylate reductase
+JOHDEFJB_00462	gene	957				
+JOHDEFJB_00462	CDS	957			COG0520	putative protein
+JOHDEFJB_00463	gene	393				
+JOHDEFJB_00463	CDS	393				hypothetical protein
+JOHDEFJB_00464	gene	231				
+JOHDEFJB_00464	CDS	231				hypothetical protein
+JOHDEFJB_00465	gene	639				
+JOHDEFJB_00465	CDS	639			COG3599	putative protein
+JOHDEFJB_00466	gene	447				
+JOHDEFJB_00466	CDS	447			COG1399	putative protein
+JOHDEFJB_00467	gene	699	rnc			
+JOHDEFJB_00467	CDS	699	rnc	3.1.26.3	COG0571	Ribonuclease 3
+JOHDEFJB_00468	gene	480				
+JOHDEFJB_00468	CDS	480				hypothetical protein
+JOHDEFJB_00469	gene	1479				
+JOHDEFJB_00469	CDS	1479		1.14.-.-	COG2124	Putative cytochrome P450 136
+JOHDEFJB_00470	gene	666	ethR			
+JOHDEFJB_00470	CDS	666	ethR			HTH-type transcriptional regulator EthR
+JOHDEFJB_00471	gene	741	nuoC			
+JOHDEFJB_00471	CDS	741	nuoC	7.1.1.-	COG0852	NADH-quinone oxidoreductase subunit C
+JOHDEFJB_00472	gene	555	nuoB			
+JOHDEFJB_00472	CDS	555	nuoB	7.1.1.-	COG0377	NADH-quinone oxidoreductase subunit B
+JOHDEFJB_00473	gene	378	nuoA			
+JOHDEFJB_00473	CDS	378	nuoA	7.1.1.-	COG0838	NADH-quinone oxidoreductase subunit A
+JOHDEFJB_00474	gene	369				
+JOHDEFJB_00474	CDS	369			COG0784	putative response regulatory protein
+JOHDEFJB_00475	gene	168				
+JOHDEFJB_00475	CDS	168				hypothetical protein
+JOHDEFJB_00476	gene	1086	yajO			
+JOHDEFJB_00476	CDS	1086	yajO	1.1.-.-	COG0667	1-deoxyxylulose-5-phosphate synthase YajO
+JOHDEFJB_00477	gene	408				
+JOHDEFJB_00477	CDS	408				hypothetical protein
+JOHDEFJB_00478	gene	1035	purD			
+JOHDEFJB_00478	CDS	1035	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+JOHDEFJB_00479	gene	759				
+JOHDEFJB_00479	CDS	759			COG0589	Universal stress protein
+JOHDEFJB_00480	gene	615	betI_4			
+JOHDEFJB_00480	CDS	615	betI_4			HTH-type transcriptional regulator BetI
+JOHDEFJB_00481	gene	1014				
+JOHDEFJB_00481	CDS	1014				hypothetical protein
+JOHDEFJB_00482	gene	633				
+JOHDEFJB_00482	CDS	633				hypothetical protein
+JOHDEFJB_00483	gene	774				
+JOHDEFJB_00483	CDS	774				hypothetical protein
+JOHDEFJB_00484	gene	999				
+JOHDEFJB_00484	CDS	999				hypothetical protein
+JOHDEFJB_00485	gene	2526	polA			
+JOHDEFJB_00485	CDS	2526	polA	2.7.7.7	COG0258	DNA polymerase I
+JOHDEFJB_00486	gene	270				
+JOHDEFJB_00486	CDS	270				hypothetical protein
+JOHDEFJB_00487	gene	531				
+JOHDEFJB_00487	CDS	531				hypothetical protein
+JOHDEFJB_00488	gene	192				
+JOHDEFJB_00488	CDS	192				hypothetical protein
+JOHDEFJB_00489	gene	381				
+JOHDEFJB_00489	CDS	381				hypothetical protein
+JOHDEFJB_00490	gene	192				
+JOHDEFJB_00490	CDS	192				hypothetical protein
+JOHDEFJB_00491	gene	1254				
+JOHDEFJB_00491	CDS	1254		1.14.15.29	COG2124	Steroid C26-monooxygenase
+JOHDEFJB_00492	gene	1065				
+JOHDEFJB_00492	CDS	1065				hypothetical protein
+JOHDEFJB_00493	gene	660	pdxH			
+JOHDEFJB_00493	CDS	660	pdxH	1.4.3.5	COG0259	Pyridoxine 5'-phosphate oxidase
+JOHDEFJB_00494	gene	378				
+JOHDEFJB_00494	CDS	378				hypothetical protein
+JOHDEFJB_00495	gene	74				
+JOHDEFJB_00495	tRNA	74				tRNA-Asn(gtt)
+JOHDEFJB_00496	gene	285				
+JOHDEFJB_00496	CDS	285				hypothetical protein
+JOHDEFJB_00497	gene	1548	dnaG			
+JOHDEFJB_00497	CDS	1548	dnaG	2.7.7.-	COG0358	DNA primase
+JOHDEFJB_00498	gene	99				
+JOHDEFJB_00498	CDS	99				hypothetical protein
+JOHDEFJB_00499	gene	705				
+JOHDEFJB_00499	CDS	705				hypothetical protein
+JOHDEFJB_00500	gene	120				
+JOHDEFJB_00500	CDS	120				hypothetical protein
+JOHDEFJB_00501	gene	477				
+JOHDEFJB_00501	CDS	477				hypothetical protein
+JOHDEFJB_00502	gene	543	folK			
+JOHDEFJB_00502	CDS	543	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+JOHDEFJB_00503	gene	390	folB			
+JOHDEFJB_00503	CDS	390	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+JOHDEFJB_00504	gene	819	folP1			
+JOHDEFJB_00504	CDS	819	folP1	2.5.1.15	COG0294	Dihydropteroate synthase
+JOHDEFJB_00505	gene	372	folE			
+JOHDEFJB_00505	CDS	372	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+JOHDEFJB_00506	gene	660				
+JOHDEFJB_00506	CDS	660				hypothetical protein
+JOHDEFJB_00507	gene	1089				
+JOHDEFJB_00507	CDS	1089				hypothetical protein
+JOHDEFJB_00508	gene	993				
+JOHDEFJB_00508	CDS	993				hypothetical protein
+JOHDEFJB_00509	gene	438				
+JOHDEFJB_00509	CDS	438				hypothetical protein
+JOHDEFJB_00510	gene	1182	mdtA			
+JOHDEFJB_00510	CDS	1182	mdtA			Multidrug resistance protein MdtA
+JOHDEFJB_00511	gene	888	efpA			
+JOHDEFJB_00511	CDS	888	efpA			putative MFS-type transporter EfpA
+JOHDEFJB_00512	gene	1215	cysG			
+JOHDEFJB_00512	CDS	1215	cysG	4.99.1.4		Siroheme synthase
+JOHDEFJB_00513	gene	279				
+JOHDEFJB_00513	CDS	279				hypothetical protein
+JOHDEFJB_00514	gene	807	mmgF			
+JOHDEFJB_00514	CDS	807	mmgF	4.1.3.-	COG2513	2-methylisocitrate lyase
+JOHDEFJB_00515	gene	1143	prpC			
+JOHDEFJB_00515	CDS	1143	prpC	2.3.3.5	COG0372	2-methylcitrate synthase
+JOHDEFJB_00516	gene	468				
+JOHDEFJB_00516	CDS	468				hypothetical protein
+JOHDEFJB_00517	gene	1086				
+JOHDEFJB_00517	CDS	1086				hypothetical protein
+JOHDEFJB_00518	gene	294				
+JOHDEFJB_00518	CDS	294				hypothetical protein
+JOHDEFJB_00519	gene	1029				
+JOHDEFJB_00519	CDS	1029				hypothetical protein
+JOHDEFJB_00520	gene	231				
+JOHDEFJB_00520	CDS	231				hypothetical protein
+JOHDEFJB_00521	gene	1011	ppsD			
+JOHDEFJB_00521	CDS	1011	ppsD	2.3.1.41	COG3321	Phthiocerol synthesis polyketide synthase type I PpsD
+JOHDEFJB_00522	gene	432	tadA			
+JOHDEFJB_00522	CDS	432	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+JOHDEFJB_00523	gene	1299				
+JOHDEFJB_00523	CDS	1299		3.2.1.54		Cyclomaltodextrinase
+JOHDEFJB_00524	gene	432				
+JOHDEFJB_00524	CDS	432				hypothetical protein
+JOHDEFJB_00525	gene	1515	mbtA			
+JOHDEFJB_00525	CDS	1515	mbtA	6.2.1.-	COG1021	Salicyl-AMP ligase / salicyl-S-ArCP synthetase
+JOHDEFJB_00526	gene	855				
+JOHDEFJB_00526	CDS	855				hypothetical protein
+JOHDEFJB_00527	gene	1119				
+JOHDEFJB_00527	CDS	1119				hypothetical protein
+JOHDEFJB_00528	gene	705	trmR			
+JOHDEFJB_00528	CDS	705	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+JOHDEFJB_00529	gene	303				
+JOHDEFJB_00529	CDS	303				hypothetical protein
+JOHDEFJB_00530	gene	294				
+JOHDEFJB_00530	CDS	294				hypothetical protein
+JOHDEFJB_00531	gene	1197				
+JOHDEFJB_00531	CDS	1197				hypothetical protein
+JOHDEFJB_00532	gene	408				
+JOHDEFJB_00532	CDS	408				hypothetical protein
+JOHDEFJB_00533	gene	561				
+JOHDEFJB_00533	CDS	561				hypothetical protein
+JOHDEFJB_00534	gene	1332	pepN			
+JOHDEFJB_00534	CDS	1332	pepN	3.4.11.2		Aminopeptidase N
+JOHDEFJB_00535	gene	627				
+JOHDEFJB_00535	CDS	627				hypothetical protein
+JOHDEFJB_00536	gene	111				
+JOHDEFJB_00536	CDS	111				hypothetical protein
+JOHDEFJB_00537	gene	738				
+JOHDEFJB_00537	CDS	738				hypothetical protein
+JOHDEFJB_00538	gene	870	menH			
+JOHDEFJB_00538	CDS	870	menH	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+JOHDEFJB_00539	gene	705				
+JOHDEFJB_00539	CDS	705				hypothetical protein
+JOHDEFJB_00540	gene	1029				
+JOHDEFJB_00540	CDS	1029				hypothetical protein
+JOHDEFJB_00541	gene	912	atpG			
+JOHDEFJB_00541	CDS	912	atpG		COG0224	ATP synthase gamma chain
+JOHDEFJB_00542	gene	564	atpA			
+JOHDEFJB_00542	CDS	564	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+JOHDEFJB_00543	gene	216				
+JOHDEFJB_00543	CDS	216				hypothetical protein
+JOHDEFJB_00544	gene	1365				
+JOHDEFJB_00544	CDS	1365				hypothetical protein
+JOHDEFJB_00545	gene	579				
+JOHDEFJB_00545	CDS	579				hypothetical protein
+JOHDEFJB_00546	gene	1464				
+JOHDEFJB_00546	CDS	1464				hypothetical protein
+JOHDEFJB_00547	gene	1149	gltD			
+JOHDEFJB_00547	CDS	1149	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+JOHDEFJB_00548	gene	141				
+JOHDEFJB_00548	CDS	141				hypothetical protein
+JOHDEFJB_00549	gene	807	ssuD			
+JOHDEFJB_00549	CDS	807	ssuD	1.14.14.5		Alkanesulfonate monooxygenase
+JOHDEFJB_00550	gene	1377				
+JOHDEFJB_00550	CDS	1377				putative protein
+JOHDEFJB_00551	gene	711				
+JOHDEFJB_00551	CDS	711				hypothetical protein
+JOHDEFJB_00552	gene	522				
+JOHDEFJB_00552	CDS	522				hypothetical protein
+JOHDEFJB_00553	gene	249				
+JOHDEFJB_00553	CDS	249				hypothetical protein
+JOHDEFJB_00554	gene	783	echA8			
+JOHDEFJB_00554	CDS	783	echA8	4.2.1.17	COG1024	putative enoyl-CoA hydratase echA8
+JOHDEFJB_00555	gene	207				
+JOHDEFJB_00555	CDS	207				hypothetical protein
+JOHDEFJB_00556	gene	411	embR			
+JOHDEFJB_00556	CDS	411	embR		COG1716	Transcriptional regulatory protein EmbR
+JOHDEFJB_00557	gene	273				
+JOHDEFJB_00557	CDS	273				hypothetical protein
+JOHDEFJB_00558	gene	525	echA6			
+JOHDEFJB_00558	CDS	525	echA6	4.2.1.17	COG1024	putative enoyl-CoA hydratase echA6
+JOHDEFJB_00559	gene	1149	uctC			
+JOHDEFJB_00559	CDS	1149	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+JOHDEFJB_00560	gene	963	caiA			
+JOHDEFJB_00560	CDS	963	caiA	1.3.8.13		Crotonobetainyl-CoA reductase
+JOHDEFJB_00561	gene	846				
+JOHDEFJB_00561	CDS	846				hypothetical protein
+JOHDEFJB_00562	gene	858	nrnA			
+JOHDEFJB_00562	CDS	858	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+JOHDEFJB_00563	gene	516	rbfA			
+JOHDEFJB_00563	CDS	516	rbfA			Ribosome-binding factor A
+JOHDEFJB_00564	gene	600	infB			
+JOHDEFJB_00564	CDS	600	infB		COG0532	Translation initiation factor IF-2
+JOHDEFJB_00565	gene	732	hdhA			
+JOHDEFJB_00565	CDS	732	hdhA	1.1.1.159		7-alpha-hydroxysteroid dehydrogenase
+JOHDEFJB_00566	gene	915				
+JOHDEFJB_00566	CDS	915				Putative enoyl-CoA hydratase EchA13
+JOHDEFJB_00567	gene	165				
+JOHDEFJB_00567	CDS	165				hypothetical protein
+JOHDEFJB_00568	gene	678				
+JOHDEFJB_00568	CDS	678				hypothetical protein
+JOHDEFJB_00569	gene	549				
+JOHDEFJB_00569	CDS	549				hypothetical protein
+JOHDEFJB_00570	gene	699				
+JOHDEFJB_00570	CDS	699				hypothetical protein
+JOHDEFJB_00571	gene	264				
+JOHDEFJB_00571	CDS	264		2.1.1.-		Putative S-adenosyl-L-methionine-dependent methyltransferase
+JOHDEFJB_00572	gene	255				
+JOHDEFJB_00572	CDS	255				hypothetical protein
+JOHDEFJB_00573	gene	156				
+JOHDEFJB_00573	CDS	156				hypothetical protein
+JOHDEFJB_00574	gene	159				
+JOHDEFJB_00574	CDS	159				hypothetical protein
+JOHDEFJB_00575	gene	705	tcrX_2			
+JOHDEFJB_00575	CDS	705	tcrX_2		COG0745	putative transcriptional regulatory protein TcrX
+JOHDEFJB_00576	gene	141				
+JOHDEFJB_00576	CDS	141				hypothetical protein
+JOHDEFJB_00577	gene	642				
+JOHDEFJB_00577	CDS	642				hypothetical protein
+JOHDEFJB_00578	gene	954				
+JOHDEFJB_00578	CDS	954				hypothetical protein
+JOHDEFJB_00579	gene	924	rdmC			
+JOHDEFJB_00579	CDS	924	rdmC	3.1.1.95		Aclacinomycin methylesterase RdmC
+JOHDEFJB_00580	gene	345				
+JOHDEFJB_00580	CDS	345				hypothetical protein
+JOHDEFJB_00581	gene	531	yjmD			
+JOHDEFJB_00581	CDS	531	yjmD	1.-.-.-	COG1063	putative zinc-type alcohol dehydrogenase-like protein YjmD
+JOHDEFJB_00582	gene	246				
+JOHDEFJB_00582	CDS	246				hypothetical protein
+JOHDEFJB_00583	gene	147				
+JOHDEFJB_00583	CDS	147				hypothetical protein
+JOHDEFJB_00584	gene	429				
+JOHDEFJB_00584	CDS	429				hypothetical protein
+JOHDEFJB_00585	gene	789				
+JOHDEFJB_00585	CDS	789				hypothetical protein
+JOHDEFJB_00586	gene	1158				
+JOHDEFJB_00586	CDS	1158				hypothetical protein
+JOHDEFJB_00587	gene	825	araQ			
+JOHDEFJB_00587	CDS	825	araQ		COG0395	L-arabinose transport system permease protein AraQ
+JOHDEFJB_00588	gene	351				
+JOHDEFJB_00588	CDS	351				hypothetical protein
+JOHDEFJB_00589	gene	156				
+JOHDEFJB_00589	CDS	156				hypothetical protein
+JOHDEFJB_00590	gene	951				
+JOHDEFJB_00590	CDS	951				hypothetical protein
+JOHDEFJB_00591	gene	588				
+JOHDEFJB_00591	CDS	588				hypothetical protein
+JOHDEFJB_00592	gene	525	caiE			
+JOHDEFJB_00592	CDS	525	caiE			Carnitine operon protein CaiE
+JOHDEFJB_00593	gene	672				
+JOHDEFJB_00593	CDS	672				hypothetical protein
+JOHDEFJB_00594	gene	741	lolD			
+JOHDEFJB_00594	CDS	741	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+JOHDEFJB_00595	gene	1497				
+JOHDEFJB_00595	CDS	1497		2.1.3.1	COG4799	Methylmalonyl-CoA carboxyltransferase 12S subunit
+JOHDEFJB_00596	gene	225				
+JOHDEFJB_00596	CDS	225				hypothetical protein
+JOHDEFJB_00597	gene	402				
+JOHDEFJB_00597	CDS	402				Heme-binding protein
+JOHDEFJB_00598	gene	1008	yqjG			
+JOHDEFJB_00598	CDS	1008	yqjG	1.8.5.7	COG0435	Glutathionyl-hydroquinone reductase YqjG
+JOHDEFJB_00599	gene	255				
+JOHDEFJB_00599	CDS	255				putative protein
+JOHDEFJB_00600	gene	1188	rclA			
+JOHDEFJB_00600	CDS	1188	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+JOHDEFJB_00601	gene	882				
+JOHDEFJB_00601	CDS	882				hypothetical protein
+JOHDEFJB_00602	gene	1932	hapE			
+JOHDEFJB_00602	CDS	1932	hapE	1.14.13.84		4-hydroxyacetophenone monooxygenase
+JOHDEFJB_00603	gene	117				
+JOHDEFJB_00603	CDS	117				hypothetical protein
+JOHDEFJB_00604	gene	315				
+JOHDEFJB_00604	CDS	315				hypothetical protein
+JOHDEFJB_00605	gene	1161	carA			
+JOHDEFJB_00605	CDS	1161	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+JOHDEFJB_00606	gene	663				
+JOHDEFJB_00606	CDS	663				hypothetical protein
+JOHDEFJB_00607	gene	74				
+JOHDEFJB_00607	tRNA	74				tRNA-Val(tac)
+JOHDEFJB_00608	gene	891				
+JOHDEFJB_00608	CDS	891				hypothetical protein
+JOHDEFJB_00609	gene	339				
+JOHDEFJB_00609	CDS	339				hypothetical protein
+JOHDEFJB_00610	gene	195				
+JOHDEFJB_00610	CDS	195				hypothetical protein
+JOHDEFJB_00611	gene	702				
+JOHDEFJB_00611	CDS	702				hypothetical protein
+JOHDEFJB_00612	gene	312				
+JOHDEFJB_00612	CDS	312				hypothetical protein
+JOHDEFJB_00613	gene	114				
+JOHDEFJB_00613	CDS	114				hypothetical protein
+JOHDEFJB_00614	gene	879	sbp			
+JOHDEFJB_00614	CDS	879	sbp		COG1613	Sulfate-binding protein
+JOHDEFJB_00615	gene	204				
+JOHDEFJB_00615	CDS	204				hypothetical protein
+JOHDEFJB_00616	gene	963				
+JOHDEFJB_00616	CDS	963				hypothetical protein
+JOHDEFJB_00617	gene	612				
+JOHDEFJB_00617	CDS	612				hypothetical protein
+JOHDEFJB_00618	gene	522				
+JOHDEFJB_00618	CDS	522				hypothetical protein
+JOHDEFJB_00619	gene	819	trpC			
+JOHDEFJB_00619	CDS	819	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+JOHDEFJB_00620	gene	456				
+JOHDEFJB_00620	CDS	456				hypothetical protein
+JOHDEFJB_00621	gene	774				
+JOHDEFJB_00621	CDS	774				hypothetical protein
+JOHDEFJB_00622	gene	1026				
+JOHDEFJB_00622	CDS	1026				hypothetical protein
+JOHDEFJB_00623	gene	576				
+JOHDEFJB_00623	CDS	576			COG1167	Putative aminotransferase/MSMEI_6121
