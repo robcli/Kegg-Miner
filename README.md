@@ -6,7 +6,9 @@ Appends KEGG pathway descriptors to prokka tsv files.
 
 ## How to Use
 Execute as:
+
 python Convert.py filename
+
 Ex: python Convert.py A1_bin.012_prokka.tsv
 
 Example prokka files to use are in the data folder. 
