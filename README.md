@@ -13,7 +13,9 @@ Example prokka files to use are in the data folder.
 
 ## Output
 A tsv of only prokka entries with a KEGG id with pathway description.
+
 A png of a plot of KEGG pathway appears by frequency. 
+
 ![Example plot](https://github.com/robcli/Kegg-Miner/blob/main/A1_bin.012_prokka_plot.png)
 
 ## Misc
