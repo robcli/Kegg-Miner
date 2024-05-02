@@ -1,182 +1,97 @@
 import requests
-from collections import defaultdict
-import csv
-from bs4 import BeautifulSoup
+import pandas as pd
 import concurrent.futures
-from concurrent.futures import as_completed
 import os
+import math
+import re
+import time
+import seaborn as sns
+from matplotlib import pyplot as plt
+import argparse
 
-#Converting annotation to uniform throughput
-## automatically removes hypothetical protein readings or empty readings
-## %2 are converted to commas per encoding
-## all file are passed by their name
+parser = argparse.ArgumentParser()
+parser.add_argument("file", type=str,
+                    help="prokka file to process in tsv format")
+args = parser.parse_args()
 
-## File[contig, program, ftype, start, end, score, strand, properties] => [ftype, EC, product]
-def kbase_protein(file):
-    i = [2, 8]      ##2 is ftype, 8 is product 
-    r=[]
-    with open(file, "r", encoding="UTF-8") as read:
-        tsv_file = csv.reader(read, delimiter = '\t')
-        for line in tsv_file:
-            out = [line[x] for x in i]      ##out = [ftype, product]
-            out.insert(1, extract_EC(out[1]))       ##out = [ftype, EC, product]
-            out[2] = extract_function(out[2])       ## runs scrapper
-            if("hypothetical protein" not in out[2] and out[2] != ""):
-                r.append(out)
-    return r
+class KEGG_obj:
+    def __init__(self, pathways, ec):
+        self.pathways = pathways
+        self.ec = ec
+    def get_pathways(self):
+        return self.pathways
+    def get_ec(self):
+        return self.ec
 
-## File[locus_tag, ftype, length_bp, gene, EC_number, COG, product] => [ftype, EC, product]
-def unity_protein(file):
-    i = [1, 4, 6]       ##1 is ftype, 4 is EC, 6 is name
-    r=[]
-    with open(file, "r", encoding="UTF-8") as read:
-        tsv_file = csv.reader(read, delimiter = '\t')
-        for line in tsv_file:
-            out = [line[x] for x in i]      ##[ftype, EC, product]
-            if("hypothetical protein" not in out[2]):
-                r.append(out)
-        r.pop(0)        ##removes headers
-    return r
+class Data:
+    def __init__(self, df, ecs):
+        self.df = df
+        self.ecs = ecs
+        self.kegg_df = None
+        self.kegg_plot = None
 
-## string => string
-def extract_EC(str):
-    if ("eC_number=" in str):
-        index = str.index("eC_number=")+10
-        end = str[index:].index(";")
-        return str[index:index+end].replace("%2", ",")
-    elif ("(EC" in str):
-        index = str.index("(EC")+4
-        end = str[index:].index(")")
-        return str[index:index+end]
-    else:
-        return ""
+def read_file(file_name):
+    df = pd.read_csv(file_name, sep="\t").applymap(str)
+    ecs = list(df[df["EC_number"] != "nan"]["EC_number"])
+    return Data(df, ecs)
 
-## string => string
-def extract_function(str):
-    index = str.index("product=")+8
-    present = ";" in str[index:]
-    end = str[index:].index(";") if present else -1
-    return str[index:index+end].replace("%2", ",") if end != -1 else str[index:].replace("%2", ",")
+def search_ec(ec):
+    API_dump = requests.get("https://rest.kegg.jp/get/"+ec).content.decode("utf-8")
+    pathways = re.findall(r"ec[0-9]{5}.*\n", API_dump)
+    pathways_cleaned = list(map(lambda x: x.strip('\n')[9:], pathways))
+    pathways_concat = ";".join(pathways_cleaned)
+    if pathways_concat == "":
+        return KEGG_obj(None, ec)
+    return KEGG_obj(pathways_concat, ec)
 
-## File, string => string
-## creates new tsv file with file[ftype, EC, product]
-def protein_to_tsv(file, program):
-    oname = program + "_" + file[:-3] + "tsv"
-    with open (oname, 'w', newline ='') as csvfile:
-        w = csv.writer(csvfile, delimiter = '\t')
-        rows = unity_protein(file) if program == "unity" else kbase_protein(file)
-        rows.insert(0, ["Type", "EC", "product"])
-        w.writerows(rows)
-    return oname
+def mine_kegg(ecs):
+    threads = 10
+    kegg_map = dict()
+    count = 0
+    tally = 0
+    queue = []
+    zero = time.time()
 
+    with concurrent.futures.ThreadPoolExecutor(max_workers=threads) as executor:
+        for ec in ecs:
+            count += 1
+            tally += 1
+            queue.append(executor.submit(search_ec, ec))
+            if count == 10:
+                for future in queue:
+                    result = future.result()
+                    if result.get_pathways() == None:
+                        continue
+                    kegg_map[result.get_ec()] = result.get_pathways()
+                count = 0 
+                print(f"#################################### {tally}/{len(ecs)} | {time.time()-zero} seconds", flush=True)
+                time.sleep(1)
+    print(f"#################################### {tally}/{len(ecs)} | {time.time()-zero} seconds", flush=True)
+    return kegg_map
 
-##Scraping methods
+def append_kegg_id(data, kegg_map):
+    data.kegg_df = data.df[data.df["EC_number"].isin(pd.Series(kegg_map.keys()))]
+    data.kegg_df = data.kegg_df.assign(pathways = data.kegg_df["EC_number"].map(kegg_map))
 
-## [ftype, EC, product] => [ftype, EC, product, pathways]
-## finds the correct html box with the pathways
-def pathway(line):
-    ec = line[1]
-    URL = "https://www.genome.jp/dbget-bin/www_bget?ec:"+ec
-    page = requests.get(URL)
-    soup = BeautifulSoup(page.content, "html.parser")
-    try:
-        pathway = soup.find_all("td", {"class":"td20 defd"})[5]
-    except:
-        return line + ["Obsolete"]
-    if pathway.select_one('a[href*="/pathway"]') is None:
-        return line + ["No metabolic pathway"]
-    else:
-        str = ""
-        rows = pathway.findAll(lambda tag: tag.name=='table')
-        for elem in rows:
-            str += elem.findAll(lambda tag: tag.name =='td')[1].get_text() + ";"
-    return line + [str]
+def plot_kegg(data):
+    fig, ax = plt.subplots(layout="constrained", figsize=(16,12))
+    list_of_pathways = list(map(lambda x: x.split(";"), data.kegg_df["pathways"]))
+    counts = dict()
+    list_of_pathways = sum(list_of_pathways, [])
+    for pathway in set(list_of_pathways):
+        counts[pathway] = [list_of_pathways.count(pathway)]
 
-## file[ftype, EC, product] => [ftype, EC, product, pathways]
-## Runs the scrapping process on all products in the file
-def ec_search(file):
-    with open(file, 'r', encoding="UTF-8") as read:
-        threads = 30
-        files_to_search = []
-        futures = []
-        rr = []
-        tsv_file = csv.reader(read, delimiter = "\t")
-        for line in tsv_file:       ##culls only entries with EC numbers
-            ec = line[1]
-            if ec != None and ec != "" and ec != "EC" and "-" not in ec:
-                files_to_search.append(line)
-        update = 0
+    df = pd.DataFrame.from_dict(counts)
+    df = df.transpose().reset_index().set_axis(['pathway', 'count'], axis=1).sort_values("count", ascending=False)
+    data.kegg_plot = sns.barplot(df, y="pathway", x="count")
+    return fig
 
-        with concurrent.futures.ThreadPoolExecutor(max_workers=threads) as executor:
-            for i, line in enumerate(files_to_search):
-                files_to_search[i] = executor.submit(pathway, line)
-                
-            for i, future in enumerate(files_to_search):
-                files_to_search[i] = future.result()
-                update += 1
-                if(update % 20 == 0):
-                    print(update)
-            return files_to_search
+def main():
+    data = read_file(args.file)
+    kegg_map = mine_kegg(data.ecs)
+    append_kegg_id(data, kegg_map)
+    plot_kegg(data).savefig(args.file[:-4]+"_plot.png")
+    data.kegg_df.to_csv(args.file[:-4]+"_kegg_id.tsv", sep="\t")
     
-## file[ftype, EC, product] => file[ftype, EC, product, pathways]
-## creates pathways tsv
-def file_overwrite(file):
-    overwrite = ec_search(file)
-    overwrite.insert(0, ["Type", "EC", "Product", "Pathway"])
-    with open(file[:-4]+"_pathways.tsv", "w", newline = '') as csvfile:
-        write = csv.writer(csvfile, delimiter = '\t')
-        write.writerows(overwrite)
-    return file[:-4]+"_pathways.tsv"
 
-## Produce count file
-
-## file[ftype, EC, product, pathways] => file[pathway, count]
-def count(file):
-    with open(file, encoding="UTF-8") as read:
-        tsv_file = csv.reader(read, delimiter = '\t')
-        acc = []
-        for line in tsv_file:
-            acc.append(pull_pathways(line[3]))
-        dd = defaultdict(int)
-        for line in acc:
-            for path in line:
-                dd[path] += 1
-        return dd 
-
-## string => string[]
-def pull_pathways(str):
-    alpha = ""
-    r = []
-    for letter in str:
-        if(letter == ";"):
-             r.append(alpha)
-             alpha = ""
-        else:
-            alpha += letter
-    if("Metabolic pathways" in r): 
-        r.remove("Metabolic pathways")       
-    return r 
-
-## file => string
-## Creates count tsv
-def count_to_tsv(file):
-    p = list(count(file).items())
-    oname = file[:-12] + "counted.tsv"
-    with open (oname, 'w', newline ='') as csvfile:
-        w = csv.writer(csvfile, delimiter = '\t')
-        w.writerow(["Pathway", "Count"])
-        w.writerows(p)
-    return oname
-
-## Combined method
-
-## file, string => None
-## runs both the pathways and count tsvs.
-def convert(file, program):
-    name = protein_to_tsv(file, program)
-    name2 = file_overwrite(name)
-    count_to_tsv(name2)
-    print("Deleting intermediate file " + name )
-    os.remove(name)
-
-## run it like convert("prokka_Rickettsiales.tsv", "unity")
+main()
